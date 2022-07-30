@@ -1,0 +1,46 @@
+header {
+	font-family: 'Courier';
+	font-size: 30px;
+	text-align: center;
+	color: #c09cf7;
+	
+
+	}
+
+.intro {
+	font-family: 'Bradley Hand';
+	font-size: 23px;
+	text-align: center;
+	}
+
+img[src*='StellaHeader'] {
+	height:300px
+
+	}
+
+.intro p {
+	font-family: 'Courier New';
+}
+
+.topnav {
+	
+	
+	background-color: #d9c5f0;
+	height: 53px;
+	width: 700px;
+	margin: auto;
+	border: 2px dotted #7700ff;
+
+}
+
+.topnav a {
+	font-family: 'Courier New';
+	text-align: center;
+	font-size: 22px;
+	float: left;
+	padding: 14px 16px;
+}
+
+.topnav a:hover {
+	background-color: #a3a3a3;
+}
